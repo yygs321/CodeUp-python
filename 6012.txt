@@ -1,0 +1,5 @@
+#파이썬은 print하면 자동 띄어쓰기가 된다
+n=input()
+m=input()
+print(n)
+print(m)

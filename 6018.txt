@@ -1,0 +1,5 @@
+#print(?,?,sep=':') 를 사용하면 : 기호를 사이에 두고 값 출력
+#sep=seperator(분리기, 분류기호)
+#입력을 : 기호를 사이에 두고 받을때 ex)시:분
+a,b=input().split(":") 
+print(a,b,sep=':')

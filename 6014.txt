@@ -1,0 +1,6 @@
+f=input()
+#파이썬은 자료형 안써도 input에서 받은 자료형 바로 쓰기때문에 꼭 실수형으로 안바꿔줘도 가능
+f=float(f)
+print(f)
+print(f)
+print(f)

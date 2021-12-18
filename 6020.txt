@@ -1,0 +1,3 @@
+a,b=input().split('-')
+print(a+b)
+#풀이에서는 공백없이 두 문자 붙여쓸 때 print(a,b,sep='')로 함 

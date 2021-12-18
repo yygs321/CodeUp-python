@@ -1,0 +1,4 @@
+f= input()
+#실수 입력받은 그대로 실수로 표현하고 싶으면 float해주기
+f=float(f)
+print(f)

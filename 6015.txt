@@ -1,0 +1,5 @@
+#파이썬은 %d이렇게 해서 입력받는게 아니라
+#input으로 받아서 split으로 공백나누기로 입력
+a,b= input().split()
+print(a)
+print(b)
