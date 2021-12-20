@@ -1,0 +1,4 @@
+#대문자 16진수로 출력
+a=input()
+a=int(a)
+print('%X'%a)
